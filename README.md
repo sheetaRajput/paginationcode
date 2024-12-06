@@ -1,2 +1,2 @@
 # paginationcode
-This is a pagination code for demo
+This is a pagination code for demo.
